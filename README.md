@@ -50,7 +50,6 @@ The machine learning services were developed using Python and integrated with th
 - CSS
 - Bootstrap
 ## Screenshots
-## Screenshots
 
 ### Login
 ![Login](login.jpeg)
