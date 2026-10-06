@@ -49,7 +49,19 @@ The machine learning services were developed using Python and integrated with th
 - HTML
 - CSS
 - Bootstrap
+## Screenshots
 
+### Login
+![Login](screenshots/login.jpeg)
+
+### Operations Dashboard
+![Operations Dashboard](screenshots/operations-dashboard.jpeg)
+
+### ED Workspace
+![ED Workspace](screenshots/ed-workspace.jpeg)
+
+### Alerts
+![Alerts](screenshots/alerts-list.jpeg)
 ## Project Purpose
 
 The goal of Smart MedOps is to support hospital operations by combining data preparation, predictive models, dashboards, alerts, and workflow management in one system.
