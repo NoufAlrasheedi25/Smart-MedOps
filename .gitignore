@@ -1,0 +1,18 @@
+uploads/**
+!uploads/.gitkeep
+models/*
+!models/.gitkeep
+!models/*.joblib
+.snapshots/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# ASP.NET
+smart-medops-ml/bin/
+smart-medops-ml/obj/
+smart-medops-ml/.vs/
+
+# Legacy React (delete folder locally if FINISH_REMOVE_CLIENT.bat fails)
+client/
